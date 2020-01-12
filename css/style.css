@@ -1,0 +1,18 @@
+.logo {
+  max-width:200px;
+  width: auto;
+  height: auto;
+}
+
+body {
+  background-color: LightGray;
+}
+
+.obrigatorio {
+  color: red;
+  font-size: 14px;
+}
+
+.maiusculo {
+  text-transform: uppercase;
+}
